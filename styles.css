@@ -1,0 +1,77 @@
+p {
+ text-shadow: -1px 1px white;
+ font-size: larger;
+}
+
+body{
+    text-align: center;
+    
+}
+
+i{
+    text-shadow: -1px 1px white;
+    font-size: large;
+}
+
+#Home-Page-Background-Color{
+    
+    background-image: linear-gradient(to right,white, grey, white);
+}
+
+#Laura-Background-Color{
+    background-image: linear-gradient(to right, #078600, #ffe834, #078600);
+}
+
+#Baiken-Background-Color{
+    background-image: linear-gradient(pink, white);
+}
+
+#Bullet-Background-Color{
+    background-image: linear-gradient(#ffd966, #e69138, #ffd966);
+}
+
+.hov:hover{
+    transform: scale(1.5);
+    transition: transform .4s;
+}
+
+h1{
+    text-shadow: -1px 1px white;
+}
+
+small{
+    text-shadow: -1px 1px white;
+}
+
+h2{
+    text-shadow: -1px 1px white;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+table, td, th, li{
+    text-shadow: -1px 1px white;
+    border-radius: 1px 1px black;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+
+
+h3{
+    text-shadow: -1px 1px white;
+}
+
+b{
+    text-shadow: -1px 1px white;
+}
+
+form{
+    text-shadow: -1px 1px white;
+}
